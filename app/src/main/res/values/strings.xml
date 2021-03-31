@@ -1,0 +1,575 @@
+<resources>
+    <string name="app_name">LeroBrown</string>
+    <string name="chorao">chorao</string>
+    <string name="gerador_de_tudo_o_que_ela_gosta_de_escutar">Gerador de Tudo o que ela gosta de escutar</string>
+    <string name="gerar">Gerar</string>
+    <string-array name="artists">
+        <item>Chorão</item>
+        <item>Renato Russo</item>
+    </string-array>
+    <string-array name="brown">
+        <item>Tirou a roupa, entrou no mar</item>
+        <item>Pensei: Meu Deus que bom que fosse</item>
+        <item>Tu me apresenta essa mulher</item>
+        <item>Meu irmão, te dava até um doce</item>
+        <item>Sem roupa ela é demais</item>
+        <item>Também por isso</item>
+        <item>Eu creio em Deus</item>
+        <item>Meu bom, meu Deus</item>
+        <item>Meu bom, me traz</item>
+        <item>Ainda bem que eu trouxe até meu guarda-sol</item>
+        <item>Tenho toda tarde, tenho a vida inteira</item>
+        <item>Já se foi aquele tempo da ladeira, irmão</item>
+        <item>Já que se foi aquele tempo da ladeira, irmão</item>
+        <item>Meu escritório é na praia</item>
+        <item>Eu tô sempre na área</item>
+        <item>Mas eu não sou da tua láia, não</item>
+        <item>Meu escritório é na praia</item>
+        <item>Eu tô sempre na área</item>
+        <item>Mas eu não sou daquela láia, não</item>
+        <item>Então deixe viver, deixe ficar</item>
+        <item>Deixe estar como está</item>
+        <item>Deixe viver, deixe ficar</item>
+        <item>Deixe estar como está</item>
+        <item>Meu Deus me dê um motivo</item>
+        <item>Pois eu pago tanto mico</item>
+        <item>Ela me ignora, na esperança eu ainda fico</item>
+        <item>Eu tô fritando aqui</item>
+        <item>Vou entregar, não aguento mais</item>
+        <item>Mas se eu não falar hoje</item>
+        <item>Talvez nunca a veja mais</item>
+        <item>O dia passa, horas se estendem</item>
+        <item>As pessoas ao redor nunca me entendem</item>
+        <item>O dia passa, horas se estendem</item>
+        <item>As pessoas ao redor, nunca me entendem</item>
+        <item>Então deixe viver, deixe ficar</item>
+        <item>Deixe estar como está</item>
+        <item>Deixe viver, deixe ficar</item>
+        <item>Deixe estar como está</item>
+        <item>Deixe viver, deixe ficar</item>
+        <item>Deixe estar como está</item>
+        <item>Deixe viver, deixe ficar</item>
+        <item>Deixe estar como está, aê</item>
+        <item>O dia passa, horas se estendem</item>
+        <item>As pessoas ao redor nunca me entendem</item>
+        <item>O dia passa, horas se estendem</item>
+        <item>As pessoas ao redor, nunca me entendem</item>
+        <item>Tirou a roupa, entrou no mar</item>
+        <item>Pensei: Meu Deus que bom que fosse</item>
+        <item>Tu me apresenta essa mulher</item>
+        <item>Meu irmão, te dava até um doce</item>
+        <item>Sem roupa ela é demais</item>
+        <item>Também por isso</item>
+        <item>Eu creio em Deus</item>
+        <item>Meu bom, meu Deus</item>
+        <item>Meu bom, me traz</item>
+        <item>Ainda bem que eu trouxe até meu guarda-sol</item>
+        <item>Tenho toda tarde, tenho a vida inteira</item>
+        <item>Já se foi aquele tempo da ladeira, irmão</item>
+        <item>Já que se foi aquele tempo da ladeira, irmão</item>
+        <item>Meu escritório é na praia</item>
+        <item>Eu tô sempre na área</item>
+        <item>Mas eu não sou da tua láia, não</item>
+        <item>Meu escritório é na praia</item>
+        <item>Eu tô sempre na área</item>
+        <item>Mas eu não sou daquela láia, não</item>
+        <item>Então deixe viver, deixe ficar</item>
+        <item>Deixe estar como está</item>
+        <item>Deixe viver, deixe ficar</item>
+        <item>Deixe estar como está</item>
+        <item>Deixe viver, deixe ficar</item>
+        <item>Deixe estar como está</item>
+        <item>Deixe viver, deixe ficar</item>
+        <item>Deixe estar como está, aê, aê, aê</item>
+        <item>Canto minha vida com orgulho</item>
+        <item>Na minha vida tudo acontece</item>
+        <item>Mas quanto mais a gente rala, mais a gente cresce</item>
+        <item>Hoje estou feliz porque eu sonhei com você</item>
+        <item>E amanhã posso chorar por não poder te ver</item>
+        <item>Mas o seu sorriso vale mais que um diamante</item>
+        <item>Se você vier comigo, aí nós vamos adiante</item>
+        <item>Com a cabeça erguida e mantendo a fé em Deus</item>
+        <item>O seu dia mais feliz vai ser o mesmo que o meu</item>
+        <item>A vida me ensinou a nunca desistir</item>
+        <item>Nem ganhar, nem perder mas procurar evoluir</item>
+        <item>Podem me tirar tudo que tenho</item>
+        <item>Só não podem me tirar as coisas boas que eu já fiz pra quem eu amo</item>
+        <item>E eu sou feliz e canto e o universo é uma canção</item>
+        <item>E eu vou que vou</item>
+        <item>História, nossas histórias</item>
+        <item>Dias de luta, dias de glória</item>
+        <item>História, nossas histórias</item>
+        <item>Dias de luta, dias de glória</item>
+        <item>História, nossas histórias</item>
+        <item>Dias de luta, dias de glória</item>
+        <item>História, nossas histórias</item>
+        <item>Dias de luta, dias de glória</item>
+        <item>Oh minha gata, morada dos meus sonhos</item>
+        <item>Todo dia, se pudesse eu ia estar com você</item>
+        <item>Já te via muito antes nos meus sonhos</item>
+        <item>Eu procurei a vida inteira por alguém como você</item>
+        <item>Por isso eu canto a minha vida com orgulho</item>
+        <item>Com melodia, alegria e barulho</item>
+        <item>Eu sou feliz e rodo pelo mundo</item>
+        <item>Sou correria mas também sou vagabundo</item>
+        <item>Mas hoje dou valor de verdade pra minha saúde,</item>
+        <item>Pra minha liberdade</item>
+        <item>Que bom te encontrar nessa cidade</item>
+        <item>Esse brilho intenso me lembra você</item>
+        <item>História, nossas histórias</item>
+        <item>Dias de luta, dias de glória</item>
+        <item>História, nossas histórias</item>
+        <item>Dias de luta, dias de glória</item>
+        <item>História, nossas histórias</item>
+        <item>Dias de luta, dias de glória</item>
+        <item>História, nossas histórias</item>
+        <item>Dias de luta, dias de glória</item>
+        <item>Hoje estou feliz, acordei com o pé direito</item>
+        <item>E vou fazer de novo, vou fazer muito bem feito</item>
+        <item>Sintonia, telepatia, comunicação pelo cortex bum bye bye</item>
+        <item>Essa é uma história de amargar</item>
+        <item>Conheci uma garota meu irmão eu vou lhe falar</item>
+        <item>Tudo que ela quer o pai dela dá</item>
+        <item>Desde casa em Ubatuba até apê no Guarujá</item>
+        <item>Fim de festa, olho pra ela, ela sorri pra mim</item>
+        <item>Me secou a noite inteira, ela só pode estar a fim</item>
+        <item>Ela tem carro importado e telefone celular</item>
+        <item>Eu só tenho uma magrela e um apê no BNH</item>
+        <item>Eu falo tudo que ela gosta de escutar</item>
+        <item>Deve ser por isso que ela vem me procurar</item>
+        <item>Eu falo, eu falo tudo que ela gosta de escutar</item>
+        <item>Deve ser por isso que ela vem me procurar</item>
+        <item>O pai dela riu de mim porque o meu carro é popular</item>
+        <item>E ainda me deu uma notícia de desanimar</item>
+        <item>Rapaz você não é bom pra minha filha não</item>
+        <item>Quem é teu pai? Quem é você? O que você faz?</item>
+        <item>Vou investigar você</item>
+        <item>Fim de festa, olho pra ela, ela sorriu pra mim</item>
+        <item>Me secou a noite inteira, ela só pode estar a fim</item>
+        <item>Ela tem carro importado e telefone celular</item>
+        <item>Eu só tenho uma magrela e um apê no BNH</item>
+        <item>Eu falo tudo que ela gosta de escutar</item>
+        <item>Deve ser por isso que ela vem me procurar</item>
+        <item>Eu falo, eu falo tudo que ela gosta de escutar</item>
+        <item>Deve ser por isso que ela vem me procurar</item>
+        <item>Tudo que ela gosta de escutar</item>
+        <item>Deve ser por isso que ela vem me procurar</item>
+        <item>Eu falo, eu falo tudo que ela gosta de escutar</item>
+        <item>Deve ser por isso que ela vem me procurar</item>
+        <item>Ah yeah, come on</item>
+        <item>Agora eu sei</item>
+        <item>Exatamente o que fazer</item>
+        <item>Bom recomeçar, poder contar com você</item>
+        <item>Pois eu me lembro de tudo irmão</item>
+        <item>Eu estava lá também</item>
+        <item>Um homem quando esta em paz</item>
+        <item>Não quer guerra com ninguém</item>
+        <item>Segurei minhas lágrimas</item>
+        <item>Pois não queria demonstrar a emoção</item>
+        <item>Já que estava ali só pra observar</item>
+        <item>E aprender um pouco mais sobre a percepção</item>
+        <item>Eles dizem que é impossível encontrar o amor</item>
+        <item>Sem perder a razão</item>
+        <item>Mas pra quem tem pensamento forte</item>
+        <item>O impossível é só questão de opinião</item>
+        <item>E disso os loucos sabem</item>
+        <item>Só os loucos sabem</item>
+        <item>Disso os loucos sabem</item>
+        <item>Só os loucos sabem</item>
+        <item>Toda positividade eu desejo a você</item>
+        <item>Pois precisamos disso</item>
+        <item>Nos dias de luta</item>
+        <item>O medo cega os nossos sonhos</item>
+        <item>O medo cega os nossos sonhos</item>
+        <item>Menina linda eu quero morar na sua rua</item>
+        <item>Você deixou saudade</item>
+        <item>Você deixou saudade</item>
+        <item>Quero te ver outra vez</item>
+        <item>Quero te ver outra vez</item>
+        <item>Você deixou saudade</item>
+        <item>Agora eu sei</item>
+        <item>Exatamente o que fazer</item>
+        <item>Bom recomeçar, poder contar com você</item>
+        <item>Pois eu me lembro de tudo irmão</item>
+        <item>Eu estava lá também</item>
+        <item>Um homem quando esta em paz</item>
+        <item>Não quer guerra com ninguém</item>
+    </string-array>
+    <string-array name="renato">
+        <item>Todos os dias quando acordo</item>
+        <item>Não tenho mais o tempo que passou</item>
+        <item>Mas tenho muito tempo</item>
+        <item>Temos todo o tempo do mundo</item>
+        <item>Todos os dias antes de dormir</item>
+        <item>Lembro e esqueço como foi o dia</item>
+        <item>Sempre em frente</item>
+        <item>Não temos tempo a perder</item>
+        <item>Nosso suor sagrado</item>
+        <item>É bem mais belo que esse sangue amargo</item>
+        <item>E tão sério</item>
+        <item>E selvagem</item>
+        <item>Selvagem</item>
+        <item>Selvagem</item>
+        <item>Veja o sol dessa manhã tão cinza</item>
+        <item>A tempestade que chega é da cor dos teus olhos</item>
+        <item>Castanhos</item>
+        <item>Então me abraça forte</item>
+        <item>Me diz mais uma vez que já estamos</item>
+        <item>Distantes de tudo</item>
+        <item>Temos nosso próprio tempo</item>
+        <item>Temos nosso próprio tempo</item>
+        <item>Temos nosso próprio tempo</item>
+        <item>Não tenho medo do escuro</item>
+        <item>Mas deixe as luzes</item>
+        <item>Acesas agora</item>
+        <item>O que foi escondido</item>
+        <item>É o que se escondeu</item>
+        <item>E o que foi prometido</item>
+        <item>Ninguém prometeu</item>
+        <item>Nem foi tempo perdido</item>
+        <item>Somos tão jovens</item>
+        <item>Tão jovens</item>
+        <item>Tão jovens</item>
+        <item>Não tinha medo o tal João de Santo Cristo</item>
+        <item>Era o que todos diziam quando ele se perdeu</item>
+        <item>Deixou pra trás todo o marasmo da fazenda</item>
+        <item>Só pra sentir no seu sangue o ódio que Jesus lhe deu</item>
+        <item>Quando criança só pensava em ser bandido</item>
+        <item>Ainda mais quando com um tiro de soldado o pai morreu</item>
+        <item>Era o terror da sertania onde morava</item>
+        <item>E na escola até o professor com ele aprendeu</item>
+        <item>Ia pra igreja só pra roubar o dinheiro</item>
+        <item>Que as velhinhas colocavam na caixinha do altar</item>
+        <item>Sentia mesmo que era mesmo diferente</item>
+        <item>Sentia que aquilo ali não era o seu lugar</item>
+        <item>Ele queria sair para ver o mar</item>
+        <item>E as coisas que ele via na televisão</item>
+        <item>Juntou dinheiro para poder viajar</item>
+        <item>De escolha própria, escolheu a solidão</item>
+        <item>Comia todas menininhas da cidade</item>
+        <item>De tanto brincar de médico, aos doze era professor</item>
+        <item>Aos quinze, foi mandado pro reformatório</item>
+        <item>Onde aumentou seu ódio diante de tanto terror</item>
+        <item>Não entendia como a vida funcionava</item>
+        <item>Discriminação por causa da sua classe e sua cor</item>
+        <item>Ficou cansado de tentar achar resposta</item>
+        <item>E comprou uma passagem, foi direto a Salvador</item>
+        <item>E lá chegando foi tomar um cafezinho</item>
+        <item>E encontrou um boiadeiro com quem foi falar</item>
+        <item>E o boiadeiro tinha uma passagem e ia perder a viagem</item>
+        <item>Mas João foi lhe salvar</item>
+        <item>Dizia ele: Estou indo pra Brasília</item>
+        <item>Neste país lugar melhor não há</item>
+        <item>Tô precisando visitar a minha filha</item>
+        <item>Eu fico aqui e você vai no meu lugar</item>
+        <item>E João aceitou sua proposta</item>
+        <item>E num ônibus entrou no Planalto Central</item>
+        <item>Ele ficou bestificado com a cidade</item>
+        <item>Saindo da rodoviária, viu as luzes de Natal</item>
+        <item>Meu Deus, mas que cidade linda</item>
+        <item>No Ano Novo eu começo a trabalhar</item>
+        <item>Cortar madeira, aprendiz de carpinteiro</item>
+        <item>Ganhava cem mil por mês em Taguatinga</item>
+        <item>Na sexta-feira ia pra zona da cidade</item>
+        <item>Gastar todo o seu dinheiro de rapaz trabalhador</item>
+        <item>E conhecia muita gente interessante</item>
+        <item>Até um neto bastardo do seu bisavô</item>
+        <item>Um peruano que vivia na Bolívia</item>
+        <item>E muitas coisas trazia de lá</item>
+        <item>Seu nome era Pablo e ele dizia</item>
+        <item>Que um negócio ele ia começar</item>
+        <item>E Santo Cristo até a morte trabalhava</item>
+        <item>Mas o dinheiro não dava pra ele se alimentar</item>
+        <item>E ouvia às sete horas o noticiário</item>
+        <item>Que sempre dizia que o seu ministro ia ajudar</item>
+        <item>Mas ele não queria mais conversa</item>
+        <item>E decidiu que, como Pablo, ele iria se virar</item>
+        <item>Elaborou mais uma vez seu plano santo</item>
+        <item>E sem ser crucificado, a plantação foi começar</item>
+        <item>Logo, logo os maluco da cidade souberam da novidade</item>
+        <item>Tem bagulho bom aí!</item>
+        <item>E João de Santo Cristo ficou rico</item>
+        <item>E acabou com todos os traficantes dali</item>
+        <item>Fez amigos, frequentava a Asa Norte</item>
+        <item>E ia pra festa de rock pra se libertar</item>
+        <item>Mas de repente</item>
+        <item>Sob uma má influência dos boyzinhos da cidade</item>
+        <item>Começou a roubar</item>
+        <item>Já no primeiro roubo ele dançou</item>
+        <item>E pro inferno ele foi pela primeira vez</item>
+        <item>Violência e estupro do seu corpo</item>
+        <item>Vocês vão ver, eu vou pegar vocês!</item>
+        <item>Agora o Santo Cristo era bandido</item>
+        <item>Destemido e temido no Distrito Federal</item>
+        <item>Não tinha nenhum medo de polícia</item>
+        <item>Capitão ou traficante, playboy ou general</item>
+        <item>Foi quando conheceu uma menina</item>
+        <item>E de todos os seus pecados ele se arrependeu</item>
+        <item>Maria Lúcia era uma menina linda</item>
+        <item>E o coração dele, pra ela o Santo Cristo prometeu</item>
+        <item>Ele dizia que queria se casar</item>
+        <item>E carpinteiro ele voltou a ser</item>
+        <item>Maria Lúcia, pra sempre vou te amar</item>
+        <item>E um filho com você eu quero ter</item>
+        <item>O tempo passa e um dia vem na porta</item>
+        <item>Um senhor de alta classe com dinheiro na mão</item>
+        <item>E ele faz uma proposta indecorosa</item>
+        <item>E diz que espera uma resposta, uma resposta do João</item>
+        <item>Não boto bomba em banca de jornal</item>
+        <item>Nem em colégio de criança, isso eu não faço, não</item>
+        <item>E não protejo general de dez estrelas</item>
+        <item>Que fica atrás da mesa com o cu na mão</item>
+        <item>E é melhor o senhor sair da minha casa</item>
+        <item>Nunca brinque com um Peixes de ascendente Escorpião</item>
+        <item>Mas antes de sair, com ódio no olhar, o velho disse</item>
+        <item>Você perdeu sua vida, meu irmão</item>
+        <item>Você perdeu a sua vida, meu irmão</item>
+        <item>Você perdeu a sua vida, meu irmão</item>
+        <item>Essas palavras vão entrar no coração</item>
+        <item>Eu vou sofrer as consequências como um cão</item>
+        <item>Não é que o Santo Cristo estava certo</item>
+        <item>Seu futuro era incerto e ele não foi trabalhar</item>
+        <item>Se embebedou e no meio da bebedeira</item>
+        <item>Descobriu que tinha outro trabalhando em seu lugar</item>
+        <item>Falou com Pablo que queria um parceiro</item>
+        <item>E também tinha dinheiro e queria se armar</item>
+        <item>Pablo trazia o contrabando da Bolívia</item>
+        <item>E Santo Cristo revendia em Planaltina</item>
+        <item>Mas acontece que um tal de Jeremias</item>
+        <item>Traficante de renome, apareceu por lá</item>
+        <item>Ficou sabendo dos planos de Santo Cristo</item>
+        <item>E decidiu que com João ele ia acabar</item>
+        <item>Mas Pablo trouxe uma Winchester-22</item>
+        <item>E Santo Cristo já sabia atirar</item>
+        <item>E decidiu usar a arma só depois</item>
+        <item>Que Jeremias começasse a brigar</item>
+        <item>Jeremias, maconheiro sem-vergonha</item>
+        <item>Organizou a Rockonha e fez todo mundo dançar</item>
+        <item>Desvirginava mocinhas inocentes</item>
+        <item>Se dizia que era crente, mas não sabia rezar</item>
+        <item>E Santo Cristo há muito não ia pra casa</item>
+        <item>E a saudade começou a apertar</item>
+        <item>Eu vou-me embora, eu vou ver Maria Lúcia</item>
+        <item>Já tá em tempo de a gente se casar</item>
+        <item>Chegando em casa então ele chorou</item>
+        <item>E pro inferno ele foi pela segunda vez</item>
+        <item>Com Maria Lúcia, Jeremias se casou</item>
+        <item>E um filho nela ele fez</item>
+        <item>Santo Cristo era só ódio por dentro</item>
+        <item>E então o Jeremias pra um duelo ele chamou</item>
+        <item>Amanhã às duas horas na Ceilândia</item>
+        <item>Em frente ao lote 14, e é pra lá que eu vou</item>
+        <item>E você pode escolher as suas armas</item>
+        <item>Que eu acabo mesmo com você, seu porco traidor</item>
+        <item>E mato também Maria Lúcia</item>
+        <item>Aquela menina falsa pra quem jurei o meu amor</item>
+        <item>E o Santo Cristo não sabia o que fazer</item>
+        <item>Quando viu o repórter da televisão</item>
+        <item>Que deu notícia do duelo na TV</item>
+        <item>Dizendo a hora e o local e a razão</item>
+        <item>No sábado então, às duas horas</item>
+        <item>Todo o povo sem demora foi lá só para assistir</item>
+        <item>Um homem que atirava pelas costas</item>
+        <item>E acertou o Santo Cristo começou a sorrir</item>
+        <item>Sentindo o sangue na garganta</item>
+        <item>João olhou pras bandeirinhas e pro povo a aplaudir</item>
+        <item>E olhou pro sorveteiro e pras câmeras</item>
+        <item>E a gente da TV que filmava tudo ali</item>
+        <item>E se lembrou de quando era uma criança</item>
+        <item>E de tudo o que vivera até ali</item>
+        <item>E decidiu entrar de vez naquela dança</item>
+        <item>Se a Via-Crucis virou circo, estou aqui</item>
+        <item>E nisso o Sol cegou seus olhos</item>
+        <item>E então Maria Lúcia ele reconheceu</item>
+        <item>Ela trazia a Winchester-22</item>
+        <item>A arma que seu primo Pablo lhe deu</item>
+        <item>Jeremias, eu sou homem, coisa que você não é</item>
+        <item>E não atiro pelas costas, não</item>
+        <item>Olha pra cá filha da puta, sem-vergonha</item>
+        <item>Dá uma olhada no meu sangue e vem sentir o teu perdão</item>
+        <item>E Santo Cristo, com a Winchester-22</item>
+        <item>Deu cinco tiros no bandido traidor</item>
+        <item>Maria Lúcia se arrependeu depois</item>
+        <item>E morreu junto com João, seu protetor</item>
+        <item>E o povo declarava que João de Santo Cristo</item>
+        <item>Era santo porque sabia morrer</item>
+        <item>E a alta burguesia da cidade</item>
+        <item>Não acreditou na história que eles viram na TV</item>
+        <item>E João não conseguiu o que queria</item>
+        <item>Quando veio pra Brasília com o diabo ter</item>
+        <item>Ele queria era falar pro presidente</item>
+        <item>Pra ajudar toda essa gente que só faz</item>
+        <item>Estátuas e cofres, e paredes pintadas</item>
+        <item>Ninguém sabe o que aconteceu</item>
+        <item>Ela se jogou da janela do quinto andar</item>
+        <item>Nada é fácil de entender</item>
+        <item>Dorme agora</item>
+        <item>É só o vento lá fora</item>
+        <item>Quero colo! Vou fugir de casa</item>
+        <item>Posso dormir aqui com vocês?</item>
+        <item>Estou com medo, tive um pesadelo</item>
+        <item>Só vou voltar depois das três</item>
+        <item>Meu filho vai ter nome de santo</item>
+        <item>Quero o nome mais bonito</item>
+        <item>É preciso amar as pessoas</item>
+        <item>Como se não houvesse amanhã</item>
+        <item>Porque se você parar pra pensar</item>
+        <item>Na verdade, não há</item>
+        <item>Me diz, por que que o céu é azul?</item>
+        <item>Explica a grande fúria do mundo</item>
+        <item>São meus filhos</item>
+        <item>Que tomam conta de mim</item>
+        <item>Eu moro com a minha mãe</item>
+        <item>Mas meu pai vem me visitar</item>
+        <item>Eu moro na rua, não tenho ninguém</item>
+        <item>Eu moro em qualquer lugar</item>
+        <item>Já morei em tanta casa</item>
+        <item>Que nem me lembro mais</item>
+        <item>Eu moro com meus pais</item>
+        <item>É preciso amar as pessoas</item>
+        <item>Como se não houvesse amanhã</item>
+        <item>Porque se você parar pra pensar</item>
+        <item>Na verdade, não há</item>
+        <item>Sou uma gota dágua</item>
+        <item>Sou um grão de areia</item>
+        <item>Você me diz que seus pais não o entendem</item>
+        <item>Mas você não entende seus pais</item>
+        <item>Você culpa seus pais por tudo, isso é um absurdo</item>
+        <item>São crianças como você</item>
+        <item>O que você vai ser</item>
+        <item>Quando você crescer?</item>
+        <item>Tenho andado distraído</item>
+        <item>Impaciente e indeciso</item>
+        <item>E ainda estou confuso, só que agora é diferente</item>
+        <item>Estou tão tranquilo e tão contente</item>
+        <item>Quantas chances desperdicei</item>
+        <item>Quando o que eu mais queria</item>
+        <item>Era provar pra todo o mundo</item>
+        <item>Que eu não precisava provar nada pra ninguém</item>
+        <item>Me fiz em mil pedaços pra você juntar</item>
+        <item>E queria sempre achar explicação pro que eu sentia</item>
+        <item>Como um anjo caído, fiz questão de esquecer</item>
+        <item>Que mentir pra si mesmo é sempre a pior mentira</item>
+        <item>Mas não sou mais</item>
+        <item>Tão criança</item>
+        <item>Oh, oh</item>
+        <item>A ponto de saber tudo</item>
+        <item>Já não me preocupo se eu não sei por que</item>
+        <item>Às vezes o que eu vejo quase ninguém vê</item>
+        <item>E eu sei que você sabe quase sem querer</item>
+        <item>Que eu vejo o mesmo que você</item>
+        <item>Tão correto e tão bonito</item>
+        <item>O infinito é realmente um dos deuses mais lindos</item>
+        <item>Sei que às vezes uso palavras repetidas</item>
+        <item>Mas quais são as palavras que nunca são ditas?</item>
+        <item>Me disseram que você</item>
+        <item>Estava chorando</item>
+        <item>E foi então que eu percebi</item>
+        <item>Como lhe quero tanto</item>
+        <item>Já não me preocupo se eu não sei por que</item>
+        <item>Às vezes o que eu vejo quase ninguém vê</item>
+        <item>E eu sei que você sabe quase sem querer</item>
+        <item>Que eu quero o mesmo que você</item>
+        <item>Nas favelas, no Senado</item>
+        <item>Sujeira pra todo lado</item>
+        <item>Ninguém respeita a Constituição</item>
+        <item>Mas todos acreditam no futuro da nação</item>
+        <item>Que país é esse?</item>
+        <item>Que país é esse?</item>
+        <item>Que país é esse?</item>
+        <item>No Amazonas, no Araguaia-ia-ia</item>
+        <item>Na Baixada Fluminense</item>
+        <item>Mato Grosso, Minas Gerais</item>
+        <item>E no Nordeste tudo em paz</item>
+        <item>Na morte, eu descanso</item>
+        <item>Mas o sangue anda solto</item>
+        <item>Manchando os papéis</item>
+        <item>Documentos fiéis</item>
+        <item>Ao descanso do patrão</item>
+        <item>Que país é esse?</item>
+        <item>Que país é esse?</item>
+        <item>Que país é esse?</item>
+        <item>Que país é esse?</item>
+        <item>Terceiro mundo se for</item>
+        <item>Piada no exterior</item>
+        <item>Mas o Brasil vai ficar rico</item>
+        <item>Vamos faturar um milhão</item>
+        <item>Quando vendermos todas as almas</item>
+        <item>Dos nossos índios num leilão</item>
+        <item>Que país é esse?</item>
+        <item>Que país é esse?</item>
+        <item>Que país é esse?</item>
+        <item>Que país é esse?</item>
+        <item>Ainda que eu falasse</item>
+        <item>A língua dos homens</item>
+        <item>E falasse a língua dos anjos</item>
+        <item>Sem amor eu nada seria</item>
+        <item>É só o amor! É só o amor</item>
+        <item>Que conhece o que é verdade</item>
+        <item>O amor é bom, não quer o mal</item>
+        <item>Não sente inveja ou se envaidece</item>
+        <item>O amor é o fogo que arde sem se ver</item>
+        <item>É ferida que dói e não se sente</item>
+        <item>É um contentamento descontente</item>
+        <item>É dor que desatina sem doer</item>
+        <item>Ainda que eu falasse</item>
+        <item>A língua dos homens</item>
+        <item>E falasse a língua dos anjos</item>
+        <item>Sem amor eu nada seria</item>
+        <item>É um não querer mais que bem querer</item>
+        <item>É solitário andar por entre a gente</item>
+        <item>É um não contentar-se de contente</item>
+        <item>É cuidar que se ganha em se perder</item>
+        <item>É um estar-se preso por vontade</item>
+        <item>É servir a quem vence, o vencedor</item>
+        <item>É um ter com quem nos mata a lealdade</item>
+        <item>Tão contrário a si é o mesmo amor</item>
+        <item>Estou acordado e todos dormem</item>
+        <item>Todos dormem, todos dormem</item>
+        <item>Agora vejo em parte</item>
+        <item>Mas então veremos face a face</item>
+        <item>É só o amor! É só o amor</item>
+        <item>Que conhece o que é verdade</item>
+        <item>Ainda que eu falasse</item>
+        <item>A língua dos homens</item>
+        <item>E falasse a língua dos anjos</item>
+        <item>Sem amor eu nada seria</item>
+        <item>Sempre precisei de um pouco de atenção</item>
+        <item>Acho que não sei quem sou, só sei do que não gosto</item>
+        <item>E destes dias tão estranhos</item>
+        <item>Fica a poeira se escondendo pelos cantos</item>
+        <item>Esse é o nosso mundo</item>
+        <item>O que é demais nunca é o bastante</item>
+        <item>E a primeira vez é sempre a última chance</item>
+        <item>Ninguém vê onde chegamos</item>
+        <item>Os assassinos estão livres, nós não estamos</item>
+        <item>Vamos sair, mas não temos mais dinheiro</item>
+        <item>Os meus amigos todos estão procurando emprego</item>
+        <item>Voltamos a viver como há dez anos atrás</item>
+        <item>E a cada hora que passa, envelhecemos dez semanas</item>
+        <item>Vamos lá, tudo bem, eu só quero me divertir</item>
+        <item>Esquecer dessa noite, ter um lugar legal pra ir</item>
+        <item>Já entregamos o alvo e a artilharia</item>
+        <item>Comparamos nossas vidas, esperamos que um dia</item>
+        <item>Nossas vidas possam se encontrar</item>
+        <item>Quando me vi tendo de viver</item>
+        <item>Comigo apenas e com o mundo</item>
+        <item>Você me veio como um sonho bom</item>
+        <item>E me assustei, não sou perfeito</item>
+        <item>Eu não esqueço</item>
+        <item>A riqueza que nós temos</item>
+        <item>Ninguém consegue perceber</item>
+        <item>E de pensar nisso tudo</item>
+        <item>Eu, homem feito</item>
+        <item>Tive medo e não consegui dormir</item>
+        <item>Vamos sair, mas estamos sem dinheiro</item>
+        <item>Os meus amigos todos estão procurando emprego</item>
+        <item>Voltamos a viver como há dez anos atrás</item>
+        <item>E a cada hora que passa, envelhecemos dez semanas</item>
+        <item>Vamos lá, tudo bem, eu só quero me divertir</item>
+        <item>Esquecer, dessa noite ter um lugar legal pra ir</item>
+        <item>Já entregamos o alvo e a artilharia</item>
+        <item>Comparamos nossas vidas e mesmo assim</item>
+        <item>Não tenho pena de ninguém</item>
+    </string-array>
+</resources>
